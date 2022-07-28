@@ -1,0 +1,1 @@
+This is a test repository made for the bld.ai internship git task#1
